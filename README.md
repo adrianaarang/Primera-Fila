@@ -1,52 +1,58 @@
-# Primera-Fila
+🪑 Primera Fila
 
-Trabajo formado por: Adriana, Cayetana, Adrián y Pablo
+Primera Fila es una aplicación web para la gestión de un anticuario que permite a los usuarios explorar productos, realizar compras y a los administradores gestionar el inventario. La plataforma incluye autenticación de usuarios con diferentes roles (administrador y usuario), así como funcionalidades de búsqueda, carrito de compras y administración de productos.
 
-# Sprint 1: Landing Page
+🚀 Funcionalidades principales
+👤 Autenticación y roles
+Sistema de registro e inicio de sesión
+Dos tipos de usuarios:
+Administrador: gestión completa del inventario
+Usuario: exploración de productos y compra
+🛒 Carrito de compras
+Añadir productos al carrito
+Visualizar artículos seleccionados
+Mostrar cantidad total y precio
+Eliminar o modificar productos antes de comprar
+Acceso sin necesidad de registro para navegar (según configuración)
+🏪 Gestión de inventario
+Alta, edición y eliminación de productos
+Organización del catálogo de antigüedades
+Control de información como nombre, descripción, precio y disponibilidad
+🔍 Buscador de productos
+Búsqueda interactiva por nombre o descripción
+Filtrado dinámico de resultados mediante AJAX
+Visualización de productos destacados al cargar la página
+🛠️ Tecnologías utilizadas
+HTML5
+CSS3
+JavaScript (Vanilla JS)
+Bootstrap
+PHP
+AJAX
+DOM API
+📦 Instalación
+Clona el repositorio:
+git clone https://github.com/adrianaarang/Primera-Fila.git
+Accede al proyecto:
+cd Primera-Fila
+Ejecuta el proyecto en un entorno local con servidor PHP (XAMPP, WAMP o MAMP).
+Coloca el proyecto en la carpeta htdocs (en XAMPP) y accede desde el navegador:
+http://localhost/Primera-Fila
+▶️ Uso
+Inicia sesión o regístrate como usuario
+Navega por el catálogo de productos
+Utiliza el buscador para filtrar artículos
+Añade productos al carrito
+Revisa el carrito y finaliza la compra
+Si eres administrador, gestiona el inventario de productos
+🎯 Objetivo
 
->Enlace a nuestra Landing Page
+Desarrollar una plataforma web completa para la gestión de un anticuario, que permita tanto la administración interna del inventario como la experiencia de compra de los usuarios, incorporando control de acceso mediante roles.
 
-[Landing Page](https://github.com/ppolo1/Primera-Fila/tree/main/SPRINT%20I-PRIMERA%20FILA/LANDING%20PAGE-EON%20LUX%20ANTIQUES)
-
----
->Enlace a la carpeta de Diseño con la documentación
-
-[Diseño](https://github.com/ppolo1/Primera-Fila/blob/main/SPRINT%20I-PRIMERA%20FILA/GU%C3%8DA%20DE%20ESTILO%20EON%20LUX%20ANTIQUES.pdf)
-
----
->Enlace a la carpeta de Cliente
-
-[Cliente](https://github.com/ppolo1/Primera-Fila/blob/main/SPRINT%20I-PRIMERA%20FILA/VALIDACIONES%20Y%20REQUERIMIENTOS%20EON%20LUX%20ANTIQUES.pdf)
-
-
-# Sprint 2: Página Web
-
-> Enlace a nuestra Página Web
-
-[Página WEB](https://github.com/ppolo1/Primera-Fila/tree/master)
-
----
-
->Enlace a la carpeta de Cliente
-
-[Cliente](https://github.com/ppolo1/Primera-Fila/tree/main/SPRINT%20II%20-%20PRIMERA%20FILA/CLIENTE)
-
----
->Enlace a la carpeta de Diseño
-
-[Diseño](https://github.com/ppolo1/Primera-Fila/tree/main/SPRINT%20II%20-%20PRIMERA%20FILA/DISE%C3%91O)
-
----
->Enlace al proyecto
-
-[Servidor](https://github.com/ppolo1/Primera-Fila/tree/master)
-
----
->Enlace a la carpeta de Videjuegos
-
-[Videojuegos](https://github.com/ppolo1/Primera-Fila/tree/main/SPRINT%20II%20-%20PRIMERA%20FILA/VIDEOJUEGOS)
-
----
->Enlace a la carpeta de Móviles
-
-[Móviles](https://github.com/ppolo1/Primera-Fila/tree/main/SPRINT%20II%20-%20PRIMERA%20FILA/M%C3%93VILES)
+👩‍💻 Autor
+Adriana Aránguez
+Cayetana Rosado
+Pablo Polo
+Adrián Arjona
+Adriana
+GitHub: @adrianaarangmain/SPRINT%20II%20-%20PRIMERA%20FILA/M%C3%93VILES)
