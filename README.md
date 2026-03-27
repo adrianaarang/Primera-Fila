@@ -44,6 +44,7 @@ Primera Fila es una aplicación web para la gestión de un anticuario que permit
 
 Clona el repositorio:
 
+```bash
 git clone https://github.com/adrianaarang/Primera-Fila.git
 
 Accede al proyecto:
@@ -57,18 +58,19 @@ Coloca el proyecto dentro de la carpeta htdocs (si usas XAMPP).
 Abre en el navegador:
 
 http://localhost/Primera-Fila
-### ▶️ Uso
+
+▶️ Uso
 Regístrate o inicia sesión en la aplicación
 Navega por el catálogo de productos
 Utiliza el buscador para filtrar artículos
 Añade productos al carrito
 Revisa el carrito y finaliza la compra
 Si eres administrador, gestiona el inventario
-###🎯 Objetivo
+🎯 Objetivo
 
 Desarrollar una plataforma web completa para la gestión de un anticuario, que permita administrar el inventario y ofrecer una experiencia de compra interactiva, incluyendo control de acceso mediante roles.
 
-###👩‍💻 Autores
+👩‍💻 Autores
 Adriana Aránguez
 Cayetana Rosado
 Pablo Polo
