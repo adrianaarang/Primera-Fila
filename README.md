@@ -13,11 +13,11 @@ Añadir productos al carrito
 Visualizar artículos seleccionados
 Mostrar cantidad total y precio
 Eliminar o modificar productos antes de comprar
-Acceso sin necesidad de registro para navegar (según configuración)
+Icono de carrito con contador de productos
 🏪 Gestión de inventario
 Alta, edición y eliminación de productos
 Organización del catálogo de antigüedades
-Control de información como nombre, descripción, precio y disponibilidad
+Gestión de información como nombre, descripción, precio y disponibilidad
 🔍 Buscador de productos
 Búsqueda interactiva por nombre o descripción
 Filtrado dinámico de resultados mediante AJAX
@@ -36,10 +36,11 @@ git clone https://github.com/adrianaarang/Primera-Fila.git
 Accede al proyecto:
 cd Primera-Fila
 Ejecuta el proyecto en un entorno local con servidor PHP (XAMPP, WAMP o MAMP).
-Coloca el proyecto en la carpeta htdocs (en XAMPP) y accede desde el navegador:
+Coloca el proyecto dentro de la carpeta htdocs (si usas XAMPP).
+Abre en el navegador:
 http://localhost/Primera-Fila
 ▶️ Uso
-Inicia sesión o regístrate como usuario
+Regístrate o inicia sesión en la aplicación
 Navega por el catálogo de productos
 Utiliza el buscador para filtrar artículos
 Añade productos al carrito
@@ -47,7 +48,7 @@ Revisa el carrito y finaliza la compra
 Si eres administrador, gestiona el inventario de productos
 🎯 Objetivo
 
-Desarrollar una plataforma web completa para la gestión de un anticuario, que permita tanto la administración interna del inventario como la experiencia de compra de los usuarios, incorporando control de acceso mediante roles.
+Desarrollar una plataforma web completa para la gestión de un anticuario, que permita administrar el inventario y ofrecer una experiencia de compra interactiva a los usuarios, incluyendo control de acceso mediante roles.
 
 👩‍💻 Autor
 Adriana Aránguez
