@@ -58,6 +58,7 @@ Coloca el proyecto dentro de la carpeta htdocs (si usas XAMPP).
 Abre en el navegador:
 
 http://localhost/Primera-Fila
+```  
 
 ▶️ Uso
 Regístrate o inicia sesión en la aplicación
