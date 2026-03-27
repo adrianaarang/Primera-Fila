@@ -44,7 +44,6 @@ Primera Fila es una aplicación web para la gestión de un anticuario que permit
 
 Clona el repositorio:
 
-```bash
 git clone https://github.com/adrianaarang/Primera-Fila.git
 
 Accede al proyecto:
